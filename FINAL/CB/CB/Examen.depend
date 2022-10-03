@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1654139679 source:c:\users\1\documents\agus\estudios\utn\2022\1er cuatrimestre\labo 2\final\cb\cb\chofer.cpp
+	"Chofer.h"
+	<cstdio>
+	<cstring>
+
+1657834160 c:\users\1\documents\agus\estudios\utn\2022\1er cuatrimestre\labo 2\final\cb\cb\chofer.h
+	<string>
+
+1654198654 source:c:\users\1\documents\agus\estudios\utn\2022\1er cuatrimestre\labo 2\final\cb\cb\fechahora.cpp
+	"FechaHora.h"
+	<ctime>
+
+1654198545 c:\users\1\documents\agus\estudios\utn\2022\1er cuatrimestre\labo 2\final\cb\cb\fechahora.h
+	<string>
+
+1657839541 source:c:\users\1\documents\agus\estudios\utn\2022\1er cuatrimestre\labo 2\final\cb\cb\main.cpp
+	<iostream>
+	"Examen.h"
+	"Chofer.h"
+	"FechaHora.h"
+	"Viaje.h"
+
+1654201662 source:c:\users\1\documents\agus\estudios\utn\2022\1er cuatrimestre\labo 2\final\cb\cb\viaje.cpp
+	"Viaje.h"
+	<cstdio>
+	<sstream>
+	<iomanip>
+
+1654198637 c:\users\1\documents\agus\estudios\utn\2022\1er cuatrimestre\labo 2\final\cb\cb\viaje.h
+	<string>
+	"FechaHora.h"
+
+1657839058 c:\users\1\documents\agus\estudios\utn\2022\1er cuatrimestre\labo 2\final\cb\cb\examen.h
+
+1657839602 source:c:\users\1\documents\agus\estudios\utn\2022\1er cuatrimestre\labo 2\final\cb\cb\examen.cpp
+	<iostream>
+	<cstdlib>
+	"Examen.h"
+	"Chofer.h"
+	"FechaHora.h"
+	"Viaje.h"
+
